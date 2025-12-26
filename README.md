@@ -35,17 +35,19 @@
 - **Лабораторная работа 5** — [фронтенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_spa)  
   Базовое SPA на React (без Redux), интеграция с API, mock-данные.
 
-- **Лабораторная работа 6** — [PWA](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_redux_pwa)
-- [Tauri](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_tauri_changes)
-- [Github Pages](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/gh-pages)    
+- **Лабораторная работа 6**
+- - [PWA](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_redux_pwa)
+- - [Tauri](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_tauri_changes)
+- - [Github Pages](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/gh-pages)    
   Redux Toolkit, адаптивность, PWA, развёртывание на GitHub Pages, нативное приложение на Tauri.
 
 - **Лабораторная работа 7** — [фронтенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/front_redux_auth_swag)  
   Авторизация в React, интерфейс потребителя топлива, кодогенерация Axios, redux-thunk.
 
-- **Лабораторная работа 8** — [фронтенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/temp_moderator_branch)
-- [бэкенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Backend/tree/backend_with_async)
-- [сервис для расчета](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Service/tree/main)  
+- **Лабораторная работа 8**
+- - [фронтенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Frontend/tree/temp_moderator_branch)
+- - [бэкенд](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Backend/tree/backend_with_async)
+- - [сервис для расчета](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Service/tree/main)  
   Асинхронный сервис (Django), short polling, интерфейс инженера-энергетика.
  
   Полная система: [бэкенд (Go)](https://github.com/RogeReksuby/RT5-51-Kulygin-Fuel-Combustion-Calculation-Backend),
